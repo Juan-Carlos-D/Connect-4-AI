@@ -1,0 +1,4 @@
+# **Connect 4 with AI**
+- **`Connect 4`**: is a two-player connection boad game, in which the players choose a color and then take turns dropping colored dics into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The object of the game is to be the first to form a horizontal, vertical, or diagonal line of 4 of one's own discs.
+- **`Purpose of this Project`**: develop, implement, and experiment with different `artificial intelligence` techniques that enable one to make the best move possible in Connect 4 that results in higher win rates.
+- This project includes a main module with the different AI techniques used, two helper modules, and a module that allows two players to play against each other using their own AI agent.
