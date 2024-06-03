@@ -1,4 +1,4 @@
-#PCMS helpers
+# Helpers functions for playing against other players
 
 import numpy as np
 

@@ -1,3 +1,4 @@
+# This is an environment to be used for playing against other people's AI agents 
 import math
 import matplotlib.pyplot as plt
 import numpy as np
